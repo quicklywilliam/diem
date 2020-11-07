@@ -1,0 +1,3 @@
+[submodule "clock-swiftui-sample"]
+	path = clock-swiftui-sample
+	url = git@github.com:ivicamil/clock-swiftui-sample.git
