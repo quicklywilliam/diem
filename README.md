@@ -4,8 +4,8 @@ A simple Apple Watch App that represents your life as a clock.
 ![](screenshot.png)
 
 The idea is to think of your entire life as a single in your waking life:
-- You are born at 7a (or whenever you tend to wake up)
-- You die at 11p (or whenver you tend to go to sleep)
+- You are born at 7a
+- You die at 11p
 - By assuming you live to be 90 and measuring the time elapsed since you were born, the App shows the current "Life time"
 
 The app is really intended to be used as a complication, as a way of bringing mindfulness to our own mortality as well as the preciousness of life. 
