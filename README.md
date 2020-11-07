@@ -1,5 +1,7 @@
 # diem
-A simple Apple Watch App that represents your life as a clock. 
+A simple Apple Watch App that represents your life as a clock.
+
+![](screenshot.png)
 
 The idea is to think of your entire life as a single in your waking life:
 - You are born at 7a (or whenever you tend to wake up)
